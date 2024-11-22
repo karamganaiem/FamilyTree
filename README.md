@@ -1,6 +1,3 @@
-# generate_readme.py
-def generate_readme():
-    content = """
 # Family Tree Management System
 
 A C program designed to manage and explore family trees. It allows users to add individuals, define relationships (marriage, parent-child), view family hierarchies, track generations, calculate cousin relationships, and simulate the passage of time.
