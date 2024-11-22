@@ -24,7 +24,7 @@ Follow the on-screen menu to interact with the system:
 6: Count the total number of individuals.
 7: Print cousins of a specific degree.
 
-##Menu Options
+## Menu Options
 Choose an option:
 0. Exit
 1. Add a head
@@ -35,7 +35,7 @@ Choose an option:
 6. Count people
 7. Print cousins
 
-##File Overview
+## File Overview
 family_tree.c: The main source file containing all logic for managing the family tree.
 Structures:
 Humanbeing: Represents an individual with details like name, age, parents, partner, and children.
